@@ -15,7 +15,7 @@ require "../Controller/daoDepartamento.php";
     <br><br>
 
     <form action="" method="post">
-        <label for="">ID</label>
+        <label for="">ID del departamento</label>
         <input type="text" name="textId" id="textId">
         <label for="">Nombre</label>
         <input type="text" name="textname" id="textname">
